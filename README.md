@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Hello Microverse project
+# Hello Microverse 
 
 > In this project, I set up a "Hello world" repository. No complex coding is required for this exercise. The goal here is to master all of the tools and best practices I learned about in previous steps such as; ( implementing Linters, using the Microverse README.md template, making professional commit messages). I will be using them in all Microverse projects and most likely in my future job as well, so it is important to know them!
 
