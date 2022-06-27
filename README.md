@@ -13,7 +13,7 @@
 
 ## Authors
 
-👤 **Michael Mesfin*
+👤 **Michael Mesfin**
 
 - GitHub: [@michael-duke](https://github.com/michael-duke)
 - Twitter: [@MikeDuke21](https://twitter.com/MikeDuke21)
