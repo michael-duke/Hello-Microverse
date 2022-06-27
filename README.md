@@ -1,56 +1,23 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Hello Microverse project
 
-> Description the project.
+> In this project, I set up a "Hello world" repository. No complex coding is required for this exercise. The goal here is to master all of the tools and best practices I learned about in previous steps such as; ( implementing Linters, using the Microverse README.md template, making professional commit messages). I will be using them in all Microverse projects and most likely in my future job as well, so it is important to know them!
 
 
 ## Built With
 
-- Major languages
+- HTML5, CSS3
 - Frameworks
 - Technologies used
 
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
-
 ## Authors
 
-👤 **Author1**
+👤 **Michael Mesfin*
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@michael-duke](https://github.com/michael-duke)
+- Twitter: [@MikeDuke21](https://twitter.com/MikeDuke21)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/michael-21-duke/)
 
 ## 🤝 Contributing
 
@@ -64,9 +31,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Vitor G, Marco for the good advices you have giving me
 
 ## 📝 License
 
