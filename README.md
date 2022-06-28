@@ -8,8 +8,7 @@
 ## Built With
 
 - HTML5, CSS3
-- Frameworks
-- Technologies used
+- Linters: Stylelint, Lighthouse, Webhint
 
 ## Authors
 
